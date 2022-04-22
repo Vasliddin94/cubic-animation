@@ -136,7 +136,3 @@ h1{
 .container:hover .o::before{
   height: 150px;
 }
-
-.container:hover{
-  transform: rotateX(-200deg) rotateY(-45deg) translateY(-20px);
-}
